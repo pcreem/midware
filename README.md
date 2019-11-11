@@ -1,7 +1,7 @@
 # middleware
 
 此專案提供使用者於終端顯示middleware反應時間以及網站request的資訊
-[Website](http://localhost:3000/)
+[Website](http://localhost:3000/) ,
 [Website (slow version)](http://localhost:3000/slow)
 
 ## 專案畫面
